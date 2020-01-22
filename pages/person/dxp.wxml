@@ -1,0 +1,45 @@
+<view class="page">
+  <view class="part">
+    <text class="blue">姓名: </text>
+    <text>dxp（董子）</text>
+  </view>
+  <view class="part">
+    <text class="blue">性别: </text>
+    <text>男</text>
+  </view>
+  <view class="part">
+    <text class="blue">游戏id: </text>
+    <text>吧风疾对面</text>
+  </view>
+
+  <view class="part">
+    <text class="blue">游戏大区: </text>
+    <text>皮尔特沃夫</text>
+  </view>
+  <view class="part">
+    <text class="blue">游戏段位: </text>
+    <text>荣耀黄金Ⅳ（暂时）</text>
+  </view>
+  <view class="part">
+    <text class="blue">擅长位置: </text>
+    <text>上单</text>
+  </view>
+  <view class="part">
+    <text class="blue">游戏荣耀: </text>
+    <text>多次carry队友，被封为王牌上单（见下图）</text>
+  </view>
+  <view class="part">
+    <text class="blue">其他荣耀: </text>
+    <text>在609综合辩论大赛中多次夺冠，在比赛中往往能以其独创的无情杠招轻松制胜，碾压对方辩手，杀人不见血，无数慕名而来的挑战者都以失败告终。因此被称为平遥杠子哥，AKA华北杠王。</text>
+  </view>
+  <view class="part">
+    <text class="blue">打法风格: </text>
+    <text>自创剑姬不解释带线流打法，以打字号令队友拖住对面五人，独身一人偷掉对面水晶取胜，也因此自封国服第一偷男。</text>
+  </view>
+  <view class="part">
+    <text>此打法风靡一时，各大赛区战队纷纷效仿，S8全球总决赛的舞台上，IG战队上单the shy曾在第三局使出此招，可惜只差一刀。</text>
+  </view>
+
+  <image src="../../assets/point/王牌上单1.png" class="img" style="height: 150rpx;"></image>
+  <image src="../../assets/point/王牌上单2.png" class="img" style="height: 1000rpx;"></image>
+</view>

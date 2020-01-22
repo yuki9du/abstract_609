@@ -1,0 +1,21 @@
+<view class="page">
+  <view class="part">
+    <text class="blue">姓名: </text>
+    <text>lyc</text>
+  </view>
+  <view class="part">
+    <text class="blue fl">帅照: </text>
+    <view class="avatar fl">
+      <open-data type="userAvatarUrl"></open-data>
+    </view>
+  </view>
+
+  <view class="part">
+    <text class="blue">座右铭: </text>
+    <text>我没有文化，我只是经典语录的搬运工</text>
+  </view>
+  <view class="part">
+    <text class="blue">原则: </text>
+    <text>素材开放，代码开源</text>
+  </view>
+</view>

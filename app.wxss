@@ -1,0 +1,37 @@
+.page {
+  padding: 20px;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.w_center {
+  text-align: center;
+}
+
+.ft20 {
+  font-size: 20px;
+}
+
+.img {
+  margin: 20px 0;
+}
+
+.blue {
+  color: deepskyblue;
+}
+
+.part {
+  overflow: hidden;
+  margin: 6px 0;
+}
+
+.avatar {
+  width: 36px;
+  height: 36px;
+}
