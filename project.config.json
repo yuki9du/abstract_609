@@ -4,7 +4,7 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": true,
 		"postcss": true,
 		"minified": false,
@@ -48,7 +48,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 1,
+			"current": 4,
 			"list": [
 				{
 					"id": -1,
@@ -61,6 +61,27 @@
 					"id": -1,
 					"name": "dxp",
 					"pathName": "pages/person/dxp",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "yh",
+					"pathName": "pages/person/yh",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "三颜二拍b4",
+					"pathName": "pages/book/b4",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "董子原则",
+					"pathName": "pages/book/b1",
 					"scene": null
 				}
 			]

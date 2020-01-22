@@ -1,36 +1,11 @@
-// pages/category/category.js
+// pages/content/sanyanerpai.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    menuList:[
-      {
-        id:1,
-        bookId: 'b1',
-        name:'董子原则',
-        url: '../book/b1',
-      },
-      {
-        id: 2,
-        bookId: 'b2',
-        name: '董子论LOL',
-        url: '../book/b2',
-      },
-      {
-        id: 3,
-        bookId: 'b3',
-        name: '董子杂谈',
-        url: '../book/b3',
-      },
-      {
-        id: 4,
-        bookId: 'b4',
-        name: '三颜二拍',
-        url:  '../book/b4',
-      }
-    ]
+
   },
 
   /**

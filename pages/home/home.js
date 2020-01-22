@@ -11,11 +11,14 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function(options) {
-    wx.getUserInfo({ 
-      success: (res) => {
-        console.log(res)
-      }
-    })
+    
+    // wx.request({
+    //   url: 'http://123.207.32.32:8080/recommend',
+    //   success:res=>{
+    //     console.log(123)
+    //     console.log(res)
+    //   }
+    // })
   },
 
 

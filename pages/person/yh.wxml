@@ -1,3 +1,14 @@
 <view class="page">
-  yh
+  <view class="part">
+    <text class="blue">姓名: </text>
+    <text>yh</text>
+  </view>
+  <view class="part">
+    <text class="blue">性别: </text>
+    <text>男</text>
+  </view>
+  <view class="part">
+    <text class="blue">爱好: </text>
+    <text>女</text>
+  </view>
 </view>

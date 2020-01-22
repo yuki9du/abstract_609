@@ -5,7 +5,11 @@
     "pages/person/person",
     "pages/person/dxp",
     "pages/person/yh",
-    "pages/person/lyc"
+    "pages/person/lyc",
+    "pages/book/b1",
+    "pages/book/b2",
+    "pages/book/b3",
+    "pages/book/b4"
   ],
   "sitemapLocation": "sitemap76.json",
   "window": {

@@ -1,0 +1,10 @@
+<view class="page">
+  <view class="part red">
+    本书内容是董子在当今这个浮华社会中仍然不忘初心，坚持自我，保持内心那份纯粹的人生原则</view>
+  <view class="part red">
+    仅供娱乐，如有欠妥之处，欢迎老师同学批评指正</view>
+  <view class="part" wx:for="{{list}}">
+  <view class="blue">{{item.id}}. {{item.content}}</view>
+  <view class="green">{{item.reason}}</view>
+  </view>
+</view>

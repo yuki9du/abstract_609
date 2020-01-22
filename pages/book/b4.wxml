@@ -1,0 +1,32 @@
+<view class="page">
+  <view class="part">
+    <view class="blue">家中王者</view>
+    <image src="../../assets/yh/yh1.png" class="img" style="height: 500rpx;"></image>
+  </view>
+  <view class="part">
+    <view class="blue">家中王者局</view>
+    <image src="../../assets/yh/yh2.png" class="img" style="height: 400rpx;"></image>
+  </view>
+  <view class="part">
+    <view class="blue">阶级观</view>
+    <image src="../../assets/yh/yh3.png" class="img" style="height: 700rpx;"></image>
+    <image src="../../assets/yh/yh4.png" class="img" style="height: 200rpx;"></image>
+  </view>
+  <view class="part">
+    <view class="blue">合理质疑</view>
+    <image src="../../assets/yh/yh5.png" class="img" style="height: 800rpx;"></image>
+  </view>
+  <view class="part">
+    <view class="blue">穿衣服吸引异性论</view>
+    <image src="../../assets/yh/yh6.png" class="img" style="height: 200rpx;"></image>
+    <image src="../../assets/yh/yh7.png" class="img" style="height: 200rpx;"></image>
+  </view>
+   <view class="part">
+    <view class="blue">日常表白</view>
+    <image src="../../assets/yh/yh8.png" class="img" style="height: 800rpx;"></image>
+  </view>
+   <view class="part">
+    <view class="blue">交友鬼才</view>
+    <image src="../../assets/yh/yh9.png" class="img" style="height: 600rpx;"></image>
+  </view>
+</view>

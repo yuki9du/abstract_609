@@ -21,11 +21,15 @@
 .img {
   margin: 20px 0;
 }
-
+.red {
+  color:#ff5777;
+}
 .blue {
   color: deepskyblue;
 }
-
+.green {
+  color: green;
+}
 .part {
   overflow: hidden;
   margin: 6px 0;
