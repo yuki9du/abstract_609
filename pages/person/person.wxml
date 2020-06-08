@@ -1,5 +1,5 @@
-<view class="page">
+<!-- <view class="page">
   <block wx:for="{{personList}}">
     <navigator url="{{item.url}}">{{item.name}}</navigator>
   </block>
-</view>
+</view> -->
