@@ -19,12 +19,6 @@ Page({
         url: '../book/b2',
       },
       {
-        id: 3,
-        bookId: 'b3',
-        name: '董子杂谈',
-        url: '../book/b3',
-      },
-      {
         id: 4,
         bookId: 'b4',
         name: '三颜二拍',

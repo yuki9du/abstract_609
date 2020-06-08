@@ -13,15 +13,15 @@
   ],
   "sitemapLocation": "sitemap76.json",
   "window": {
-    "navigationBarBackgroundColor": "#ff5777",
+    "navigationBarBackgroundColor": "#DC4630",
     "navigationBarTextStyle": "white",
     "navigationBarTitleText": "抽象609",
-    "backgroundColor": "#ff5777",
+    "backgroundColor": "#DC4630",
     "enablePullDownRefresh": true,
     "backgroundTextStyle": "light"
   },
   "tabBar": {
-    "selectedColor": "#ff5777",
+    "selectedColor": "#DC4630",
     "list": [
       {
         "pagePath": "pages/home/home",
@@ -31,7 +31,7 @@
       },
       {
         "pagePath": "pages/person/person",
-        "text": "人物",
+        "text": "xx",
         "iconPath": "assets/tabbar/home.png",
         "selectedIconPath": "assets/tabbar/home.png"
       },

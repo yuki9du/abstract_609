@@ -1,5 +1,5 @@
 <view class="page">
   <block wx:for="{{menuList}}">
-    <navigator url="{{item.url}}">{{item.name}}</navigator>
+    <navigator url="{{item.url}}" class="nav-item">{{item.name}}</navigator>
   </block>
 </view>
